@@ -2,5 +2,5 @@
 
 Brevin Horton, L Mavroudakis, Bright Sanabria, Rose Silletto
 
-<a href="https://rsilletto.github.io/480-final-group-6/final"> <br/>
+(https://rsilletto.github.io/480-final-group-6/final)[https://rsilletto.github.io/480-final-group-6/final] <br/>
 <a href="https://rsilletto.github.io/480-final-group-6/workshop3">
