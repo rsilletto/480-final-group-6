@@ -17,6 +17,5 @@
   "dependencies": {
     "locar": "^0.0.2",
     "three": "^0.169.0"
-  },
-  "homepage": "https://rsilletto.github.io/480-final-group-6/final"
+  }
 }
