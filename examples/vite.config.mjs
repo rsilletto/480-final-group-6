@@ -9,7 +9,7 @@ const entries = { main: 'index.html' };
 export default defineConfig({
     base: '/',
     build: {
-        outDir: '../',
+        outDir: '../docs',
         rollupOptions: {
             input: entries 
         }
